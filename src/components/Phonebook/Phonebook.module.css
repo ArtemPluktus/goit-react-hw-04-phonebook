@@ -1,0 +1,48 @@
+.phonebook {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 150px;
+  border: 1px solid #000;
+  padding: 15px;
+  padding-right: 200px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.input {
+  padding: 5px;
+  font-size: 15px;
+  width: 200px;
+}
+
+.btn {
+  padding: 10px 5px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  font-size: 20px;
+}
+
+.btnDelete {
+  font-size: 20px;
+  margin-left: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+}
